@@ -20,11 +20,17 @@ def get_transaction_cost(tx_hash):
         gas_used = receipt['gasUsed']
         gas_price = receipt['effectiveGasPrice']
         who_sent_tx = receipt['from']
+        gas_l1Fee = receipt['l1Fee']
         print("who_sent_tx tx: ", who_sent_tx);
         #print("gas price: ", gas_price)
-        #print("gas used receipt: ", receipt)
-        #print("gas used: ", gas_used)
-        return gas_used * gas_price, who_sent_tx
+        print("gas used receipt: ", receipt)
+        print("gas used: ", gas_used)
+        print("gas price: ", gas_price)
+        print("gas_l1Fee: ", gas_l1Fee)
+        hex_value = gas_l1Fee # Example hex value
+        int_value = int(hex_value, 16)
+        print("gas_l1Fee in Int: ", int_value);
+        return gas_used * gas_price+int_value, who_sent_tx
     except Exception as e:
         #print("Error:, "+e)
         print("ERROR HAPPENED WAITING 12 SECONDS THEN RETRYING LETS GO")
