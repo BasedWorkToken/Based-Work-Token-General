@@ -1,860 +1,860 @@
 [
   {
     "from": "0x98181A5f3B91117426331B54E2a47e8FA74F56B0",
-    "total_value": 453875000000000000000000,
-    "total_cost": 2428373388227868,
-    "transaction_count": 729
+    "total_value": 233750000000000000000000,
+    "total_cost": 1558310967427619,
+    "transaction_count": 381
   },
   {
     "from": "0x2367305c68DD7388E51f9752ac39F63Be984Da92",
-    "total_value": 94600000000000000000000,
-    "total_cost": 568702549193424,
-    "transaction_count": 674
+    "total_value": 47300000000000000000000,
+    "total_cost": 487001996162275,
+    "transaction_count": 337
   },
   {
     "from": "0xAA97bACE829E465Fd85D44C170f5b751B5500778",
-    "total_value": 75600000000000000000000,
-    "total_cost": 433067854647779,
-    "transaction_count": 422
+    "total_value": 37800000000000000000000,
+    "total_cost": 369138546950864,
+    "transaction_count": 211
   },
   {
     "from": "0xbd4Ae0dc3c0FA45e0119d3C108acDe1DaD5E7825",
-    "total_value": 39800000000000000000000,
-    "total_cost": 339539617402168,
-    "transaction_count": 372
+    "total_value": 19900000000000000000000,
+    "total_cost": 289284039272407,
+    "transaction_count": 186
   },
   {
     "from": "0x84D57198b85fC5D336888f425922a8c2a82F8b78",
-    "total_value": 66000000000000000000000,
-    "total_cost": 322768052166552,
-    "transaction_count": 514
-  },
-  {
-    "from": "0x09A0651E6992120Ced9638aCc4C95f67C51aB150",
-    "total_value": 25250000000000000000000,
-    "total_cost": 202642664489278,
-    "transaction_count": 198
+    "total_value": 33000000000000000000000,
+    "total_cost": 238046818245953,
+    "transaction_count": 257
   },
   {
     "from": "0x79B1B987aDD963AE52E92a33979864e6aC676D0e",
-    "total_value": 8050000000000000000000,
-    "total_cost": 195875781882399,
-    "transaction_count": 68
+    "total_value": 4025000000000000000000,
+    "total_cost": 178639503822898,
+    "transaction_count": 34
   },
   {
-    "from": "0x4B0922ab7785d38c73c79c2Bc06021238981Cc6f",
-    "total_value": 30050000000000000000000,
-    "total_cost": 188801634078981,
-    "transaction_count": 244
+    "from": "0x09A0651E6992120Ced9638aCc4C95f67C51aB150",
+    "total_value": 12625000000000000000000,
+    "total_cost": 166892564704130,
+    "transaction_count": 99
   },
   {
     "from": "0xc7Db82c56431BD03B213bDf2b887dD0d8aEB5D61",
-    "total_value": 26700000000000000000000,
-    "total_cost": 188574131110679,
-    "transaction_count": 202
-  },
-  {
-    "from": "0x41bDd88845a3414C7B881F002653AD4cb75888e6",
-    "total_value": 25800000000000000000000,
-    "total_cost": 176008199639451,
-    "transaction_count": 198
+    "total_value": 13350000000000000000000,
+    "total_cost": 159179770476170,
+    "transaction_count": 101
   },
   {
     "from": "0x3381FcF134F7605D55d8fE8699B68BdFB125B052",
-    "total_value": 9300000000000000000000,
-    "total_cost": 170604397675231,
-    "transaction_count": 80
+    "total_value": 4650000000000000000000,
+    "total_cost": 153872275587962,
+    "transaction_count": 40
+  },
+  {
+    "from": "0x4B0922ab7785d38c73c79c2Bc06021238981Cc6f",
+    "total_value": 15025000000000000000000,
+    "total_cost": 152607979738035,
+    "transaction_count": 122
+  },
+  {
+    "from": "0x41bDd88845a3414C7B881F002653AD4cb75888e6",
+    "total_value": 12900000000000000000000,
+    "total_cost": 151733685474381,
+    "transaction_count": 99
   },
   {
     "from": "0x09765f7E1148D8134dd4384ef1C43ae66Fd51666",
-    "total_value": 20000000000000000000000,
-    "total_cost": 169992548669452,
-    "transaction_count": 172
-  },
-  {
-    "from": "0xF562a266ce20eCcF240e454332Bc67040A8698F8",
-    "total_value": 15850000000000000000000,
-    "total_cost": 154135041096704,
-    "transaction_count": 120
-  },
-  {
-    "from": "0xd8074D6eEC1C478e8212269812Df08CE85282aFA",
-    "total_value": 22800000000000000000000,
-    "total_cost": 140209091471896,
-    "transaction_count": 182
-  },
-  {
-    "from": "0x0535577702f3761A5d9CdEeBcb3f77BDf10015F7",
-    "total_value": 21850000000000000000000,
-    "total_cost": 139824799765053,
-    "transaction_count": 150
-  },
-  {
-    "from": "0x3254da6AEf2556A74061c30bb4Fe3CBdE7C7209b",
-    "total_value": 18650000000000000000000,
-    "total_cost": 139019595936490,
-    "transaction_count": 142
-  },
-  {
-    "from": "0xF98B868f4fc73B1F2D4Cc9DBAF72b8023E11FCC0",
-    "total_value": 25800000000000000000000,
-    "total_cost": 137415916401895,
-    "transaction_count": 208
-  },
-  {
-    "from": "0xbd17700942C50DC815e688e3D72CFE38A99260BB",
-    "total_value": 19750000000000000000000,
-    "total_cost": 133540791714558,
-    "transaction_count": 180
-  },
-  {
-    "from": "0x66c1A1c40FE3BA43fA8b8390Be21E9b39E5B7D53",
-    "total_value": 21250000000000000000000,
-    "total_cost": 128942192701527,
-    "transaction_count": 144
-  },
-  {
-    "from": "0x63db00352F77b2B70F627Ba2cAadfa2f60E00bBa",
-    "total_value": 17300000000000000000000,
-    "total_cost": 127143510221976,
-    "transaction_count": 180
-  },
-  {
-    "from": "0x57E086e4e1d1F28E0e5ebC55d06eA753FE02A7a9",
-    "total_value": 17300000000000000000000,
-    "total_cost": 124975853674585,
-    "transaction_count": 160
-  },
-  {
-    "from": "0x15AbfeFf4F9b4c35C7dB617e12d6E59E9f81B73B",
-    "total_value": 18850000000000000000000,
-    "total_cost": 119232590907924,
-    "transaction_count": 136
-  },
-  {
-    "from": "0x0bd56B869E01B5C54B10dA54442f0B390244635A",
-    "total_value": 15350000000000000000000,
-    "total_cost": 118794005129804,
-    "transaction_count": 192
-  },
-  {
-    "from": "0xc2Da1A82F07918bF7EDd2174c55414Ef8C2c3Ba6",
-    "total_value": 14900000000000000000000,
-    "total_cost": 111827633977797,
-    "transaction_count": 120
-  },
-  {
-    "from": "0xf5FE2b84D8baD24212E5E12A1F9A727b082f8489",
-    "total_value": 16850000000000000000000,
-    "total_cost": 110038789298554,
-    "transaction_count": 152
-  },
-  {
-    "from": "0xBc02a81444BeB454765a6F5060819FcB0DEA343C",
-    "total_value": 19200000000000000000000,
-    "total_cost": 109826795542342,
-    "transaction_count": 190
-  },
-  {
-    "from": "0xB59E7a2424CDa0BE1cf46890BC0956f2d41c39B0",
-    "total_value": 14950000000000000000000,
-    "total_cost": 106536783040984,
-    "transaction_count": 110
-  },
-  {
-    "from": "0x3880C15065391577C5Bbe4b6278be73616a7df17",
-    "total_value": 13700000000000000000000,
-    "total_cost": 103031409763016,
-    "transaction_count": 116
-  },
-  {
-    "from": "0x8E2f1a7cC8bfa587246e4fb682075A9da0430043",
-    "total_value": 19850000000000000000000,
-    "total_cost": 99173242567275,
-    "transaction_count": 100
-  },
-  {
-    "from": "0xcEBC817De2c2B679afAd2A74A522bdE71E27a4a0",
-    "total_value": 12050000000000000000000,
-    "total_cost": 98884865636031,
-    "transaction_count": 102
-  },
-  {
-    "from": "0x8Cb54A9FD413598ae9c1Dce1845D2f1e42235EC9",
-    "total_value": 16600000000000000000000,
-    "total_cost": 97054669817538,
-    "transaction_count": 106
-  },
-  {
-    "from": "0xdF4A9b5d2217d6CB9fdF489B9f767E858C3eDCe9",
-    "total_value": 11800000000000000000000,
-    "total_cost": 89478934676331,
-    "transaction_count": 96
-  },
-  {
-    "from": "0x7d99A49b70F405D0d7eA361e582D79272a095Bb8",
-    "total_value": 11500000000000000000000,
-    "total_cost": 85389056380306,
-    "transaction_count": 98
-  },
-  {
-    "from": "0xF5E0bCe871e8556DA94124d3a001193ffcb38e29",
-    "total_value": 10850000000000000000000,
-    "total_cost": 84202001160677,
-    "transaction_count": 100
-  },
-  {
-    "from": "0xCCA100bDbA22cC4c14F187D1123C6284E410D1ed",
-    "total_value": 9850000000000000000000,
-    "total_cost": 78770212847921,
+    "total_value": 10000000000000000000000,
+    "total_cost": 142642162242862,
     "transaction_count": 86
   },
   {
-    "from": "0xa540dB6426E97b04BBeD56c4Bd29b90a75325eAA",
-    "total_value": 11050000000000000000000,
-    "total_cost": 78109464677288,
-    "transaction_count": 92
+    "from": "0xF562a266ce20eCcF240e454332Bc67040A8698F8",
+    "total_value": 7925000000000000000000,
+    "total_cost": 134115078004292,
+    "transaction_count": 60
   },
   {
-    "from": "0x41cDc408Ff2eeB12e4cEACDE99383ADF514C16E7",
-    "total_value": 11100000000000000000000,
-    "total_cost": 75950840723059,
-    "transaction_count": 78
+    "from": "0x3254da6AEf2556A74061c30bb4Fe3CBdE7C7209b",
+    "total_value": 9325000000000000000000,
+    "total_cost": 119839891103185,
+    "transaction_count": 71
   },
   {
-    "from": "0xc0f4F80511853991B79a051df87e26BeF1bf14D8",
-    "total_value": 14400000000000000000000,
-    "total_cost": 74441137244974,
-    "transaction_count": 94
+    "from": "0x0535577702f3761A5d9CdEeBcb3f77BDf10015F7",
+    "total_value": 10925000000000000000000,
+    "total_cost": 119380993829305,
+    "transaction_count": 75
   },
   {
-    "from": "0xeaD8251eC15Ec8ff623C0af31431Aa2c1c9d1fbb",
-    "total_value": 8850000000000000000000,
-    "total_cost": 74425732388991,
-    "transaction_count": 76
+    "from": "0xd8074D6eEC1C478e8212269812Df08CE85282aFA",
+    "total_value": 11400000000000000000000,
+    "total_cost": 110925379305624,
+    "transaction_count": 91
   },
   {
-    "from": "0xC2832aE57592AC96a0Efa79D3dc000e7954d4148",
-    "total_value": 11250000000000000000000,
-    "total_cost": 72470239522777,
-    "transaction_count": 84
+    "from": "0x66c1A1c40FE3BA43fA8b8390Be21E9b39E5B7D53",
+    "total_value": 10625000000000000000000,
+    "total_cost": 110808434024100,
+    "transaction_count": 72
   },
   {
-    "from": "0x7E2C054c10Cff2497f24CbC29ef156Bb0bA872bF",
-    "total_value": 9850000000000000000000,
-    "total_cost": 71683682393678,
-    "transaction_count": 100
-  },
-  {
-    "from": "0x7F6632E2F6F69Eb251990049270D786FFECf9b02",
-    "total_value": 11950000000000000000000,
-    "total_cost": 70978530246791,
-    "transaction_count": 110
-  },
-  {
-    "from": "0x56Ee6A295e1669E65B506A72633A1e5A59AaB2a2",
-    "total_value": 9950000000000000000000,
-    "total_cost": 70555238994802,
-    "transaction_count": 78
-  },
-  {
-    "from": "0x302a42AE3D02C02B85624332e59489779f284630",
-    "total_value": 10250000000000000000000,
-    "total_cost": 69252966159130,
+    "from": "0xbd17700942C50DC815e688e3D72CFE38A99260BB",
+    "total_value": 9875000000000000000000,
+    "total_cost": 107583879920808,
     "transaction_count": 90
   },
   {
-    "from": "0x1DEA0a74a43473E59eB7E22c4801BC1FdD6Afe70",
-    "total_value": 10100000000000000000000,
-    "total_cost": 69252851623830,
-    "transaction_count": 84
+    "from": "0x15AbfeFf4F9b4c35C7dB617e12d6E59E9f81B73B",
+    "total_value": 9425000000000000000000,
+    "total_cost": 101142392663786,
+    "transaction_count": 68
+  },
+  {
+    "from": "0xF98B868f4fc73B1F2D4Cc9DBAF72b8023E11FCC0",
+    "total_value": 12900000000000000000000,
+    "total_cost": 96631668750259,
+    "transaction_count": 104
+  },
+  {
+    "from": "0xc2Da1A82F07918bF7EDd2174c55414Ef8C2c3Ba6",
+    "total_value": 7450000000000000000000,
+    "total_cost": 96039859864851,
+    "transaction_count": 60
+  },
+  {
+    "from": "0x63db00352F77b2B70F627Ba2cAadfa2f60E00bBa",
+    "total_value": 8650000000000000000000,
+    "total_cost": 94814571539139,
+    "transaction_count": 90
+  },
+  {
+    "from": "0xB59E7a2424CDa0BE1cf46890BC0956f2d41c39B0",
+    "total_value": 7475000000000000000000,
+    "total_cost": 90350509295812,
+    "transaction_count": 55
+  },
+  {
+    "from": "0x57E086e4e1d1F28E0e5ebC55d06eA753FE02A7a9",
+    "total_value": 8650000000000000000000,
+    "total_cost": 89333371904214,
+    "transaction_count": 80
+  },
+  {
+    "from": "0x3880C15065391577C5Bbe4b6278be73616a7df17",
+    "total_value": 6850000000000000000000,
+    "total_cost": 87444256946571,
+    "transaction_count": 58
+  },
+  {
+    "from": "0xf5FE2b84D8baD24212E5E12A1F9A727b082f8489",
+    "total_value": 8425000000000000000000,
+    "total_cost": 87268595481238,
+    "transaction_count": 76
+  },
+  {
+    "from": "0xcEBC817De2c2B679afAd2A74A522bdE71E27a4a0",
+    "total_value": 6025000000000000000000,
+    "total_cost": 85594775091189,
+    "transaction_count": 51
+  },
+  {
+    "from": "0x0bd56B869E01B5C54B10dA54442f0B390244635A",
+    "total_value": 7675000000000000000000,
+    "total_cost": 82590174817961,
+    "transaction_count": 96
+  },
+  {
+    "from": "0x8Cb54A9FD413598ae9c1Dce1845D2f1e42235EC9",
+    "total_value": 8300000000000000000000,
+    "total_cost": 80548202043430,
+    "transaction_count": 53
+  },
+  {
+    "from": "0x8E2f1a7cC8bfa587246e4fb682075A9da0430043",
+    "total_value": 9925000000000000000000,
+    "total_cost": 80327571519323,
+    "transaction_count": 50
+  },
+  {
+    "from": "0xdF4A9b5d2217d6CB9fdF489B9f767E858C3eDCe9",
+    "total_value": 5900000000000000000000,
+    "total_cost": 74989454192239,
+    "transaction_count": 48
+  },
+  {
+    "from": "0x7d99A49b70F405D0d7eA361e582D79272a095Bb8",
+    "total_value": 5750000000000000000000,
+    "total_cost": 73424785163380,
+    "transaction_count": 49
+  },
+  {
+    "from": "0xBc02a81444BeB454765a6F5060819FcB0DEA343C",
+    "total_value": 9600000000000000000000,
+    "total_cost": 73325500362065,
+    "transaction_count": 95
+  },
+  {
+    "from": "0xF5E0bCe871e8556DA94124d3a001193ffcb38e29",
+    "total_value": 5425000000000000000000,
+    "total_cost": 72112599976766,
+    "transaction_count": 50
+  },
+  {
+    "from": "0xCCA100bDbA22cC4c14F187D1123C6284E410D1ed",
+    "total_value": 4925000000000000000000,
+    "total_cost": 66002470393600,
+    "transaction_count": 43
+  },
+  {
+    "from": "0x41cDc408Ff2eeB12e4cEACDE99383ADF514C16E7",
+    "total_value": 5550000000000000000000,
+    "total_cost": 65280027285507,
+    "transaction_count": 39
+  },
+  {
+    "from": "0xa540dB6426E97b04BBeD56c4Bd29b90a75325eAA",
+    "total_value": 5525000000000000000000,
+    "total_cost": 64380045001239,
+    "transaction_count": 46
+  },
+  {
+    "from": "0xeaD8251eC15Ec8ff623C0af31431Aa2c1c9d1fbb",
+    "total_value": 4425000000000000000000,
+    "total_cost": 64306247978128,
+    "transaction_count": 38
   },
   {
     "from": "0xcdfFe8bd80239e3C8B12b04eDE010df3EE0E2a9a",
-    "total_value": 2300000000000000000000,
-    "total_cost": 68799334847955,
-    "transaction_count": 20
+    "total_value": 1150000000000000000000,
+    "total_cost": 63263119730241,
+    "transaction_count": 10
   },
   {
-    "from": "0x5903D61511783bF075490CdE2a74EAEA24fDfb6f",
-    "total_value": 13850000000000000000000,
-    "total_cost": 68796836851176,
-    "transaction_count": 148
+    "from": "0xC2832aE57592AC96a0Efa79D3dc000e7954d4148",
+    "total_value": 5625000000000000000000,
+    "total_cost": 61920616886155,
+    "transaction_count": 42
+  },
+  {
+    "from": "0x56Ee6A295e1669E65B506A72633A1e5A59AaB2a2",
+    "total_value": 4975000000000000000000,
+    "total_cost": 60140930478063,
+    "transaction_count": 39
   },
   {
     "from": "0x566c4904B3E547a6296Fd951972c3B2CC8FCF568",
-    "total_value": 11000000000000000000000,
-    "total_cost": 68027522024886,
-    "transaction_count": 78
-  },
-  {
-    "from": "0xe4c54340dE35E0521c6Fb34C09df2F02d863c2c5",
-    "total_value": 12150000000000000000000,
-    "total_cost": 67443077209447,
-    "transaction_count": 98
+    "total_value": 5500000000000000000000,
+    "total_cost": 58212275464924,
+    "transaction_count": 39
   },
   {
     "from": "0xB1f2a5BAEA426C04E886C275Ed290258f9bF1b66",
-    "total_value": 2950000000000000000000,
-    "total_cost": 64442720711671,
+    "total_value": 1475000000000000000000,
+    "total_cost": 57703579976132,
+    "transaction_count": 15
+  },
+  {
+    "from": "0xc0f4F80511853991B79a051df87e26BeF1bf14D8",
+    "total_value": 7200000000000000000000,
+    "total_cost": 57637017757955,
+    "transaction_count": 47
+  },
+  {
+    "from": "0x302a42AE3D02C02B85624332e59489779f284630",
+    "total_value": 5125000000000000000000,
+    "total_cost": 57292006011259,
+    "transaction_count": 45
+  },
+  {
+    "from": "0x7E2C054c10Cff2497f24CbC29ef156Bb0bA872bF",
+    "total_value": 4925000000000000000000,
+    "total_cost": 57143269090442,
+    "transaction_count": 50
+  },
+  {
+    "from": "0x7F6632E2F6F69Eb251990049270D786FFECf9b02",
+    "total_value": 5975000000000000000000,
+    "total_cost": 56910221004917,
+    "transaction_count": 55
+  },
+  {
+    "from": "0xe4c54340dE35E0521c6Fb34C09df2F02d863c2c5",
+    "total_value": 6075000000000000000000,
+    "total_cost": 54893559275267,
+    "transaction_count": 49
+  },
+  {
+    "from": "0x1DEA0a74a43473E59eB7E22c4801BC1FdD6Afe70",
+    "total_value": 5050000000000000000000,
+    "total_cost": 54472165481927,
+    "transaction_count": 42
+  },
+  {
+    "from": "0x45Be76797D891d92BeF54A81E8f002Bb9735eba4",
+    "total_value": 3550000000000000000000,
+    "total_cost": 50800718505152,
+    "transaction_count": 32
+  },
+  {
+    "from": "0x6eA4b4C27189D20e0228E20257D874FE4b7e9c32",
+    "total_value": 3875000000000000000000,
+    "total_cost": 50010002500983,
+    "transaction_count": 31
+  },
+  {
+    "from": "0x1e66cEbDd1094c7a48f9F4d2D2fB04Cd86E469C8",
+    "total_value": 2975000000000000000000,
+    "total_cost": 48338807515062,
+    "transaction_count": 25
+  },
+  {
+    "from": "0xb0aAF1bF968E04238aBdc1C1eED11a4E6b123426",
+    "total_value": 3825000000000000000000,
+    "total_cost": 47654858351474,
     "transaction_count": 30
   },
   {
     "from": "0x5eEdFB2dc11571aC1e9367a882f757B43ea3c70b",
-    "total_value": 9750000000000000000000,
-    "total_cost": 60099877899090,
-    "transaction_count": 82
-  },
-  {
-    "from": "0x45Be76797D891d92BeF54A81E8f002Bb9735eba4",
-    "total_value": 7100000000000000000000,
-    "total_cost": 59405661846979,
-    "transaction_count": 64
-  },
-  {
-    "from": "0x6eA4b4C27189D20e0228E20257D874FE4b7e9c32",
-    "total_value": 7750000000000000000000,
-    "total_cost": 58544784380370,
-    "transaction_count": 62
-  },
-  {
-    "from": "0xb0aAF1bF968E04238aBdc1C1eED11a4E6b123426",
-    "total_value": 7650000000000000000000,
-    "total_cost": 57937611820516,
-    "transaction_count": 60
-  },
-  {
-    "from": "0x1b1a6de6551b9b822164F39426C377f53C249E13",
-    "total_value": 6350000000000000000000,
-    "total_cost": 57931595885900,
-    "transaction_count": 86
-  },
-  {
-    "from": "0x7E6b7AdEC63Cdf620404728095c1f5c88C17f082",
-    "total_value": 10400000000000000000000,
-    "total_cost": 56402054227608,
-    "transaction_count": 106
-  },
-  {
-    "from": "0x1e66cEbDd1094c7a48f9F4d2D2fB04Cd86E469C8",
-    "total_value": 5950000000000000000000,
-    "total_cost": 55142820322857,
-    "transaction_count": 50
-  },
-  {
-    "from": "0x8468EE72372815d18D6ef7c2488053A80dF5ca2b",
-    "total_value": 7850000000000000000000,
-    "total_cost": 52835613475145,
-    "transaction_count": 70
+    "total_value": 4875000000000000000000,
+    "total_cost": 47017621263437,
+    "transaction_count": 41
   },
   {
     "from": "0x0Ca21162a164045214D3186Ac97Fca41B3fBB8cC",
-    "total_value": 7800000000000000000000,
-    "total_cost": 52240386795562,
-    "transaction_count": 62
+    "total_value": 3900000000000000000000,
+    "total_cost": 43358008347975,
+    "transaction_count": 31
+  },
+  {
+    "from": "0x8468EE72372815d18D6ef7c2488053A80dF5ca2b",
+    "total_value": 3925000000000000000000,
+    "total_cost": 43039257736911,
+    "transaction_count": 35
   },
   {
     "from": "0xC0da4170ff653f1444cE50E095F677031AF3c99E",
-    "total_value": 7050000000000000000000,
-    "total_cost": 49302136366356,
-    "transaction_count": 62
-  },
-  {
-    "from": "0x0DFbAA8B39562f8d2f70737cBBb268B2C4A7Eeb9",
-    "total_value": 12200000000000000000000,
-    "total_cost": 47827111742610,
-    "transaction_count": 98
+    "total_value": 3525000000000000000000,
+    "total_cost": 40723090597987,
+    "transaction_count": 31
   },
   {
     "from": "0x8BD3dA545dCBBDE829B717b0BbC749397259C69f",
-    "total_value": 6250000000000000000000,
-    "total_cost": 46763340713859,
-    "transaction_count": 48
+    "total_value": 3125000000000000000000,
+    "total_cost": 40581809438489,
+    "transaction_count": 24
   },
   {
-    "from": "0x6671E6D35f891208054178c91714218f818Fa0cE",
-    "total_value": 4950000000000000000000,
-    "total_cost": 45956398418886,
-    "transaction_count": 58
+    "from": "0x5903D61511783bF075490CdE2a74EAEA24fDfb6f",
+    "total_value": 6925000000000000000000,
+    "total_cost": 39927831164433,
+    "transaction_count": 74
+  },
+  {
+    "from": "0x7E6b7AdEC63Cdf620404728095c1f5c88C17f082",
+    "total_value": 5200000000000000000000,
+    "total_cost": 38429358314169,
+    "transaction_count": 53
+  },
+  {
+    "from": "0x1b1a6de6551b9b822164F39426C377f53C249E13",
+    "total_value": 3175000000000000000000,
+    "total_cost": 38207817658706,
+    "transaction_count": 43
   },
   {
     "from": "0xcD137D17bDb62ADe6B969E307fcfC906ad629D56",
-    "total_value": 6150000000000000000000,
-    "total_cost": 44338069086587,
-    "transaction_count": 50
+    "total_value": 3075000000000000000000,
+    "total_cost": 37575894669117,
+    "transaction_count": 25
   },
   {
-    "from": "0x173477c765c40ca7890B6b9B0Db89e359F9E2aC9",
-    "total_value": 6400000000000000000000,
-    "total_cost": 44131642607045,
-    "transaction_count": 54
-  },
-  {
-    "from": "0xB5621c0638E1795Aa091266af906437a6c85dB45",
-    "total_value": 8650000000000000000000,
-    "total_cost": 44105188794339,
-    "transaction_count": 56
-  },
-  {
-    "from": "0x8a32D766C81C7F4D5d3Fe13105B5D32762821Ee5",
-    "total_value": 5550000000000000000000,
-    "total_cost": 43864363405782,
-    "transaction_count": 54
+    "from": "0x6671E6D35f891208054178c91714218f818Fa0cE",
+    "total_value": 2475000000000000000000,
+    "total_cost": 37562088472642,
+    "transaction_count": 29
   },
   {
     "from": "0xC904E38e0031C9579b6490Dc63aE74A7635ea10f",
-    "total_value": 6100000000000000000000,
-    "total_cost": 43826899473972,
-    "transaction_count": 48
+    "total_value": 3050000000000000000000,
+    "total_cost": 37358652513030,
+    "transaction_count": 24
   },
   {
-    "from": "0x510A9c8480A16f57ebf8f3753FDe9D923ba63c56",
-    "total_value": 6600000000000000000000,
-    "total_cost": 43445051169486,
-    "transaction_count": 90
+    "from": "0x8a32D766C81C7F4D5d3Fe13105B5D32762821Ee5",
+    "total_value": 2775000000000000000000,
+    "total_cost": 36957887254595,
+    "transaction_count": 27
+  },
+  {
+    "from": "0xB5621c0638E1795Aa091266af906437a6c85dB45",
+    "total_value": 4325000000000000000000,
+    "total_cost": 36869936488009,
+    "transaction_count": 28
   },
   {
     "from": "0x39a2B724460786eC632b9299572dED60a0aE211c",
-    "total_value": 6850000000000000000000,
-    "total_cost": 43408038774226,
-    "transaction_count": 48
+    "total_value": 3425000000000000000000,
+    "total_cost": 36567369018827,
+    "transaction_count": 24
+  },
+  {
+    "from": "0x173477c765c40ca7890B6b9B0Db89e359F9E2aC9",
+    "total_value": 3200000000000000000000,
+    "total_cost": 36385070594933,
+    "transaction_count": 27
   },
   {
     "from": "0xaFf0a30054853A9d8C9F5753D98CF6a42c08C776",
-    "total_value": 5800000000000000000000,
-    "total_cost": 42870099230794,
-    "transaction_count": 46
+    "total_value": 2900000000000000000000,
+    "total_cost": 36215107058133,
+    "transaction_count": 23
+  },
+  {
+    "from": "0x0DFbAA8B39562f8d2f70737cBBb268B2C4A7Eeb9",
+    "total_value": 6100000000000000000000,
+    "total_cost": 36008426756815,
+    "transaction_count": 49
   },
   {
     "from": "0x41789B93b9b5673C88164ad3164cCA01c4a714d4",
-    "total_value": 5750000000000000000000,
-    "total_cost": 41146908155185,
-    "transaction_count": 44
+    "total_value": 2875000000000000000000,
+    "total_cost": 35378726741610,
+    "transaction_count": 22
   },
   {
     "from": "0x81cABdF62709c813e7723bE3E4e8f5a455a07792",
-    "total_value": 6200000000000000000000,
-    "total_cost": 40377974791572,
-    "transaction_count": 42
-  },
-  {
-    "from": "0x547af2CD683085b618DbBE82B0bE8DDb90165C91",
-    "total_value": 10300000000000000000000,
-    "total_cost": 39175596722890,
-    "transaction_count": 122
+    "total_value": 3100000000000000000000,
+    "total_cost": 34937181554150,
+    "transaction_count": 21
   },
   {
     "from": "0xc3455E345f9Edcf0F814D0404532df9a05F09430",
-    "total_value": 3350000000000000000000,
-    "total_cost": 38083952222952,
-    "transaction_count": 32
-  },
-  {
-    "from": "0xE92BF60bb3D1046cBf39ca0684A145E7C8DAeFe3",
-    "total_value": 4100000000000000000000,
-    "total_cost": 37354584522418,
-    "transaction_count": 44
+    "total_value": 1675000000000000000000,
+    "total_cost": 33654669199576,
+    "transaction_count": 16
   },
   {
     "from": "0xc1BF11c3A52E596B66298CD61D751821f42B49af",
-    "total_value": 4550000000000000000000,
-    "total_cost": 37180174967532,
-    "transaction_count": 36
+    "total_value": 2275000000000000000000,
+    "total_cost": 31238829641842,
+    "transaction_count": 18
   },
   {
-    "from": "0xC683688c217C8E579735f93152a21dC90E6d398D",
-    "total_value": 5150000000000000000000,
-    "total_cost": 33586983046747,
-    "transaction_count": 38
-  },
-  {
-    "from": "0x21Dc2AD87D97a99FDaD023Ca72161A9Af5157148",
-    "total_value": 4500000000000000000000,
-    "total_cost": 32858074442367,
-    "transaction_count": 40
+    "from": "0x510A9c8480A16f57ebf8f3753FDe9D923ba63c56",
+    "total_value": 3300000000000000000000,
+    "total_cost": 30798353008793,
+    "transaction_count": 45
   },
   {
     "from": "0x6E5873be932644234eD89F12b80f25ed888aB459",
-    "total_value": 4450000000000000000000,
-    "total_cost": 32855732281819,
-    "transaction_count": 36
+    "total_value": 2225000000000000000000,
+    "total_cost": 28453901816139,
+    "transaction_count": 18
+  },
+  {
+    "from": "0xC683688c217C8E579735f93152a21dC90E6d398D",
+    "total_value": 2575000000000000000000,
+    "total_cost": 28405622336986,
+    "transaction_count": 19
   },
   {
     "from": "0x45cD4f82D916F23176E33B213B08fF1a60a78232",
-    "total_value": 4250000000000000000000,
-    "total_cost": 30829620917854,
-    "transaction_count": 34
-  },
-  {
-    "from": "0xD577D6a147EA0C13d52DA0b5Fb7985B0C9493eF7",
-    "total_value": 5800000000000000000000,
-    "total_cost": 28472209260981,
-    "transaction_count": 64
-  },
-  {
-    "from": "0x052c6a398FD90347703E12C84255433d236546ed",
-    "total_value": 3400000000000000000000,
-    "total_cost": 27753949558391,
-    "transaction_count": 36
+    "total_value": 2125000000000000000000,
+    "total_cost": 26159877398966,
+    "transaction_count": 17
   },
   {
     "from": "0xBfd0b11e81D4be8021Ca3c97b42C67e441E166Ca",
-    "total_value": 3650000000000000000000,
-    "total_cost": 27254451524408,
-    "transaction_count": 30
+    "total_value": 1825000000000000000000,
+    "total_cost": 23558766529390,
+    "transaction_count": 15
   },
   {
     "from": "0x9876c3356E61b019e1417A58e2cE93f9088efF46",
-    "total_value": 3900000000000000000000,
-    "total_cost": 27151743797227,
-    "transaction_count": 30
+    "total_value": 1950000000000000000000,
+    "total_cost": 23203776823323,
+    "transaction_count": 15
   },
   {
-    "from": "0x561378F2DC7A6Fde63DdFfC2e242390b595508cb",
-    "total_value": 3150000000000000000000,
-    "total_cost": 24695108264532,
-    "transaction_count": 26
+    "from": "0xE92BF60bb3D1046cBf39ca0684A145E7C8DAeFe3",
+    "total_value": 2050000000000000000000,
+    "total_cost": 22822845594685,
+    "transaction_count": 22
   },
   {
-    "from": "0xD88D46f0509D0b94d86e887Bc0c6DBE23A49b44E",
-    "total_value": 2750000000000000000000,
-    "total_cost": 24367556745294,
-    "transaction_count": 26
+    "from": "0x052c6a398FD90347703E12C84255433d236546ed",
+    "total_value": 1700000000000000000000,
+    "total_cost": 22029192947913,
+    "transaction_count": 18
   },
   {
     "from": "0x7d9F15b73E114ce5ab3DF6273ea24f5029F4B71E",
-    "total_value": 2600000000000000000000,
-    "total_cost": 24265065018889,
-    "transaction_count": 22
-  },
-  {
-    "from": "0x22f4a79C74bf1b73c76B4378Ec551109b093b938",
-    "total_value": 3050000000000000000000,
-    "total_cost": 22679939264965,
-    "transaction_count": 48
-  },
-  {
-    "from": "0x0c6EdF0DA2fb8e3236e1D2e6Af11082FA76c4017",
-    "total_value": 3000000000000000000000,
-    "total_cost": 22256172034891,
-    "transaction_count": 26
-  },
-  {
-    "from": "0x06D819c0d16047ccDE90ccCC225618368D86ec28",
-    "total_value": 2900000000000000000000,
-    "total_cost": 20652121917498,
-    "transaction_count": 22
-  },
-  {
-    "from": "0x1df536F438FAeCb7E029d2D2321A08f5F0F52ef0",
-    "total_value": 2700000000000000000000,
-    "total_cost": 19829245162471,
-    "transaction_count": 22
-  },
-  {
-    "from": "0x8Ce8f24edB52EF82795d60905AcD6FAbE37dFF64",
-    "total_value": 2450000000000000000000,
-    "total_cost": 18777507854565,
-    "transaction_count": 38
-  },
-  {
-    "from": "0x66e83A4c76Fb90c7729a600643Ae75195e75Bb02",
-    "total_value": 5250000000000000000000,
-    "total_cost": 18232651310473,
-    "transaction_count": 24
-  },
-  {
-    "from": "0x965709bf8fb73f75ad1BE5Ae24B9e711D30936ab",
-    "total_value": 1850000000000000000000,
-    "total_cost": 18004405201348,
-    "transaction_count": 22
-  },
-  {
-    "from": "0xD34A35910A744254c17849eaDCCd3a6aD5317Ef0",
-    "total_value": 2900000000000000000000,
-    "total_cost": 17928979916842,
-    "transaction_count": 52
-  },
-  {
-    "from": "0xeaa80BA5187BadF8085997c236568Da69A798208",
-    "total_value": 3250000000000000000000,
-    "total_cost": 17872833682075,
-    "transaction_count": 34
-  },
-  {
-    "from": "0xf48e3f388DA2267bF1cE4B9189a5379cAdE0cfa6",
-    "total_value": 2450000000000000000000,
-    "total_cost": 17410263238086,
-    "transaction_count": 22
-  },
-  {
-    "from": "0xeD60cF715b79a5fe9c31F1A806e845697C66401A",
-    "total_value": 1000000000000000000000,
-    "total_cost": 17215886441875,
-    "transaction_count": 24
-  },
-  {
-    "from": "0xE83b50be71eFC43f5910d6964154d8c6B88e8c7d",
-    "total_value": 1850000000000000000000,
-    "total_cost": 16217266833607,
-    "transaction_count": 16
-  },
-  {
-    "from": "0xcf58460A67C368D592F5f6C3e62D031Bf23d64dF",
-    "total_value": 3200000000000000000000,
-    "total_cost": 14280699977606,
-    "transaction_count": 28
-  },
-  {
-    "from": "0xCdE0b3b2602B80aa1A0A157B24f11357c6818002",
     "total_value": 1300000000000000000000,
-    "total_cost": 14192845609855,
-    "transaction_count": 18
+    "total_cost": 21145788671075,
+    "transaction_count": 11
   },
   {
-    "from": "0xb6975d4d4A69c26a30C99025f166F22a69e5EfF5",
-    "total_value": 2300000000000000000000,
-    "total_cost": 14130136858232,
-    "transaction_count": 18
+    "from": "0x561378F2DC7A6Fde63DdFfC2e242390b595508cb",
+    "total_value": 1575000000000000000000,
+    "total_cost": 21057915712059,
+    "transaction_count": 13
   },
   {
-    "from": "0xf3Aa63586156c3a2387f1A691671B4d740F578B6",
-    "total_value": 3450000000000000000000,
-    "total_cost": 13563905624781,
-    "transaction_count": 28
+    "from": "0xD88D46f0509D0b94d86e887Bc0c6DBE23A49b44E",
+    "total_value": 1375000000000000000000,
+    "total_cost": 21017723162546,
+    "transaction_count": 13
   },
   {
-    "from": "0x84C7dCCE44222b8dFA8354fc145799B05cB8F1A3",
-    "total_value": 1300000000000000000000,
-    "total_cost": 12971489600242,
-    "transaction_count": 38
+    "from": "0x547af2CD683085b618DbBE82B0bE8DDb90165C91",
+    "total_value": 5150000000000000000000,
+    "total_cost": 20502476564937,
+    "transaction_count": 61
   },
   {
-    "from": "0xD6A7B80a09405C2bf4B8daae9C38555Bd3277533",
-    "total_value": 1100000000000000000000,
-    "total_cost": 12774093339031,
-    "transaction_count": 22
+    "from": "0xD577D6a147EA0C13d52DA0b5Fb7985B0C9493eF7",
+    "total_value": 2900000000000000000000,
+    "total_cost": 20179632191664,
+    "transaction_count": 32
   },
   {
-    "from": "0x8B4203f1febD682b823391a651976F536d3D1687",
-    "total_value": 900000000000000000000,
-    "total_cost": 12394072133961,
-    "transaction_count": 18
-  },
-  {
-    "from": "0x3ae6B4953F9357E33880B41c50C0955700FE6f72",
-    "total_value": 1000000000000000000000,
-    "total_cost": 11739147526156,
-    "transaction_count": 14
-  },
-  {
-    "from": "0x74B12d8E66A182FF37B83962a3c69e288CA7c4B1",
-    "total_value": 2650000000000000000000,
-    "total_cost": 11616346663054,
-    "transaction_count": 24
-  },
-  {
-    "from": "0x2eEe870690fFFD5154d060439245b00D14Be6254",
-    "total_value": 1900000000000000000000,
-    "total_cost": 11221425666384,
-    "transaction_count": 30
-  },
-  {
-    "from": "0xF75b4b66E88708f7a55FDb2E861F40506F3aaD2D",
-    "total_value": 1750000000000000000000,
-    "total_cost": 10915227393932,
-    "transaction_count": 16
-  },
-  {
-    "from": "0x0ed4D538E8eD556F5d1CccaCD5e2496617DE3323",
-    "total_value": 1350000000000000000000,
-    "total_cost": 10603872906209,
-    "transaction_count": 10
-  },
-  {
-    "from": "0xf6a2c3a6366661f5077D09C821D0B2cEaeCfbB5F",
-    "total_value": 1600000000000000000000,
-    "total_cost": 10234181865116,
-    "transaction_count": 12
-  },
-  {
-    "from": "0x63abF99f361613Fcb69c6ABD84024f71AcF05644",
-    "total_value": 750000000000000000000,
-    "total_cost": 10171473047597,
+    "from": "0x21Dc2AD87D97a99FDaD023Ca72161A9Af5157148",
+    "total_value": 2250000000000000000000,
+    "total_cost": 19550779686671,
     "transaction_count": 20
   },
   {
-    "from": "0x7271308b71F225503D6BD6083c8D87eAACa10b03",
-    "total_value": 1550000000000000000000,
-    "total_cost": 7286289216417,
-    "transaction_count": 10
+    "from": "0x0c6EdF0DA2fb8e3236e1D2e6Af11082FA76c4017",
+    "total_value": 1500000000000000000000,
+    "total_cost": 18929554113408,
+    "transaction_count": 13
   },
   {
-    "from": "0xCDF8A765F9EbC95327e5Dc882b618c632C2aF8f9",
-    "total_value": 2450000000000000000000,
-    "total_cost": 6811270729271,
-    "transaction_count": 10
+    "from": "0x06D819c0d16047ccDE90ccCC225618368D86ec28",
+    "total_value": 1450000000000000000000,
+    "total_cost": 17405170845252,
+    "transaction_count": 11
   },
   {
-    "from": "0xbF585ab71eBcB2d72B3287d142b6Fea1949c38AC",
-    "total_value": 600000000000000000000,
-    "total_cost": 5914657565870,
+    "from": "0x1df536F438FAeCb7E029d2D2321A08f5F0F52ef0",
+    "total_value": 1350000000000000000000,
+    "total_cost": 17076277052429,
+    "transaction_count": 11
+  },
+  {
+    "from": "0x66e83A4c76Fb90c7729a600643Ae75195e75Bb02",
+    "total_value": 2625000000000000000000,
+    "total_cost": 14765966873451,
+    "transaction_count": 12
+  },
+  {
+    "from": "0xf48e3f388DA2267bF1cE4B9189a5379cAdE0cfa6",
+    "total_value": 1225000000000000000000,
+    "total_cost": 14764149766178,
+    "transaction_count": 11
+  },
+  {
+    "from": "0x965709bf8fb73f75ad1BE5Ae24B9e711D30936ab",
+    "total_value": 925000000000000000000,
+    "total_cost": 13904428952103,
+    "transaction_count": 11
+  },
+  {
+    "from": "0xE83b50be71eFC43f5910d6964154d8c6B88e8c7d",
+    "total_value": 925000000000000000000,
+    "total_cost": 13863139550621,
     "transaction_count": 8
+  },
+  {
+    "from": "0x22f4a79C74bf1b73c76B4378Ec551109b093b938",
+    "total_value": 1525000000000000000000,
+    "total_cost": 13458350897802,
+    "transaction_count": 24
+  },
+  {
+    "from": "0x8Ce8f24edB52EF82795d60905AcD6FAbE37dFF64",
+    "total_value": 1225000000000000000000,
+    "total_cost": 13246688840384,
+    "transaction_count": 19
+  },
+  {
+    "from": "0xeaa80BA5187BadF8085997c236568Da69A798208",
+    "total_value": 1625000000000000000000,
+    "total_cost": 12895662100531,
+    "transaction_count": 17
+  },
+  {
+    "from": "0xCdE0b3b2602B80aa1A0A157B24f11357c6818002",
+    "total_value": 650000000000000000000,
+    "total_cost": 12256697690488,
+    "transaction_count": 9
+  },
+  {
+    "from": "0xb6975d4d4A69c26a30C99025f166F22a69e5EfF5",
+    "total_value": 1150000000000000000000,
+    "total_cost": 11652952560504,
+    "transaction_count": 9
+  },
+  {
+    "from": "0xcf58460A67C368D592F5f6C3e62D031Bf23d64dF",
+    "total_value": 1600000000000000000000,
+    "total_cost": 11438493655054,
+    "transaction_count": 14
+  },
+  {
+    "from": "0xeD60cF715b79a5fe9c31F1A806e845697C66401A",
+    "total_value": 500000000000000000000,
+    "total_cost": 11240546714890,
+    "transaction_count": 12
+  },
+  {
+    "from": "0xD34A35910A744254c17849eaDCCd3a6aD5317Ef0",
+    "total_value": 1450000000000000000000,
+    "total_cost": 9842495437187,
+    "transaction_count": 26
+  },
+  {
+    "from": "0xD6A7B80a09405C2bf4B8daae9C38555Bd3277533",
+    "total_value": 550000000000000000000,
+    "total_cost": 9502507711169,
+    "transaction_count": 11
+  },
+  {
+    "from": "0x3ae6B4953F9357E33880B41c50C0955700FE6f72",
+    "total_value": 500000000000000000000,
+    "total_cost": 9270946366534,
+    "transaction_count": 7
+  },
+  {
+    "from": "0xf3Aa63586156c3a2387f1A691671B4d740F578B6",
+    "total_value": 1725000000000000000000,
+    "total_cost": 9234337493611,
+    "transaction_count": 14
+  },
+  {
+    "from": "0x0ed4D538E8eD556F5d1CccaCD5e2496617DE3323",
+    "total_value": 675000000000000000000,
+    "total_cost": 9162239960436,
+    "transaction_count": 5
+  },
+  {
+    "from": "0x74B12d8E66A182FF37B83962a3c69e288CA7c4B1",
+    "total_value": 1325000000000000000000,
+    "total_cost": 8727128361537,
+    "transaction_count": 12
+  },
+  {
+    "from": "0xF75b4b66E88708f7a55FDb2E861F40506F3aaD2D",
+    "total_value": 875000000000000000000,
+    "total_cost": 7978030728378,
+    "transaction_count": 8
+  },
+  {
+    "from": "0x84C7dCCE44222b8dFA8354fc145799B05cB8F1A3",
+    "total_value": 650000000000000000000,
+    "total_cost": 7888138610501,
+    "transaction_count": 19
+  },
+  {
+    "from": "0x63abF99f361613Fcb69c6ABD84024f71AcF05644",
+    "total_value": 375000000000000000000,
+    "total_cost": 7545038256850,
+    "transaction_count": 10
+  },
+  {
+    "from": "0x8B4203f1febD682b823391a651976F536d3D1687",
+    "total_value": 450000000000000000000,
+    "total_cost": 7443242210137,
+    "transaction_count": 9
+  },
+  {
+    "from": "0xf6a2c3a6366661f5077D09C821D0B2cEaeCfbB5F",
+    "total_value": 800000000000000000000,
+    "total_cost": 6247186707834,
+    "transaction_count": 6
+  },
+  {
+    "from": "0x2eEe870690fFFD5154d060439245b00D14Be6254",
+    "total_value": 950000000000000000000,
+    "total_cost": 5646198793173,
+    "transaction_count": 15
+  },
+  {
+    "from": "0x7271308b71F225503D6BD6083c8D87eAACa10b03",
+    "total_value": 775000000000000000000,
+    "total_cost": 4901200850803,
+    "transaction_count": 5
   },
   {
     "from": "0x40ca3A44e6DB72a6a353bdFD15BcEc7947bD688c",
-    "total_value": 600000000000000000000,
-    "total_cost": 5758866291962,
-    "transaction_count": 12
+    "total_value": 300000000000000000000,
+    "total_cost": 4798735741355,
+    "transaction_count": 6
   },
   {
     "from": "0x68E340d9Ab23A33CD0AC3da0759CF0e13d5B29b1",
-    "total_value": 950000000000000000000,
-    "total_cost": 5688935183123,
-    "transaction_count": 14
-  },
-  {
-    "from": "0x77173D7B656467Bd006205ff4a59B63572877dE1",
-    "total_value": 700000000000000000000,
-    "total_cost": 5124132712327,
-    "transaction_count": 8
-  },
-  {
-    "from": "0x595237147a5Aab22EF8f0Bf4eAa65e38A606989D",
-    "total_value": 2200000000000000000000,
-    "total_cost": 5076098108406,
-    "transaction_count": 14
+    "total_value": 475000000000000000000,
+    "total_cost": 4456408383398,
+    "transaction_count": 7
   },
   {
     "from": "0x490E0fa91e9CFA96fbCfee38E16A1921e0E707aA",
-    "total_value": 200000000000000000000,
-    "total_cost": 4836026393915,
+    "total_value": 100000000000000000000,
+    "total_cost": 4448923663753,
+    "transaction_count": 2
+  },
+  {
+    "from": "0x77173D7B656467Bd006205ff4a59B63572877dE1",
+    "total_value": 350000000000000000000,
+    "total_cost": 4317613748179,
     "transaction_count": 4
   },
   {
-    "from": "0x2f597A84344D27D570Fd6b1eb59232D3f2F91BBD",
-    "total_value": 500000000000000000000,
-    "total_cost": 4350937165549,
-    "transaction_count": 16
+    "from": "0xbF585ab71eBcB2d72B3287d142b6Fea1949c38AC",
+    "total_value": 300000000000000000000,
+    "total_cost": 4197897249985,
+    "transaction_count": 4
   },
   {
-    "from": "0xe625cebBF5bCE175FE4d248097E6eF0fce355104",
-    "total_value": 850000000000000000000,
-    "total_cost": 4135126380395,
-    "transaction_count": 10
-  },
-  {
-    "from": "0x46A509E440D86Bd63ba702a4655322e8E73f6af2",
-    "total_value": 1000000000000000000000,
-    "total_cost": 4126951762432,
-    "transaction_count": 22
+    "from": "0xCDF8A765F9EbC95327e5Dc882b618c632C2aF8f9",
+    "total_value": 1225000000000000000000,
+    "total_cost": 3942629381333,
+    "transaction_count": 5
   },
   {
     "from": "0xB132Ba7951FC47fC1E3f2a31d33A3fAaBF43Eb12",
-    "total_value": 500000000000000000000,
-    "total_cost": 3888922866024,
-    "transaction_count": 6
+    "total_value": 250000000000000000000,
+    "total_cost": 2963469047561,
+    "transaction_count": 3
   },
   {
-    "from": "0x6DCB492811EC6057A2d99bAC7BC8433B1e67FCB8",
-    "total_value": 1750000000000000000000,
-    "total_cost": 3882204881124,
-    "transaction_count": 10
-  },
-  {
-    "from": "0xcf9661E02e66ea2213cC55404E9ea69300A3338F",
-    "total_value": 1350000000000000000000,
-    "total_cost": 3664622613182,
-    "transaction_count": 10
-  },
-  {
-    "from": "0xa7B65cA6f3C5c4e1a2c48b54CE31594e56Cbe54F",
-    "total_value": 900000000000000000000,
-    "total_cost": 3569372134472,
-    "transaction_count": 8
-  },
-  {
-    "from": "0xDf331a8E3fCB0BF9f68FE93B2d6bEC8336af296E",
-    "total_value": 600000000000000000000,
-    "total_cost": 3543537205614,
-    "transaction_count": 12
-  },
-  {
-    "from": "0xBfFBcAE8B1408D9D7986873f42d38Ca95664cE2c",
-    "total_value": 200000000000000000000,
-    "total_cost": 3274961988899,
-    "transaction_count": 4
-  },
-  {
-    "from": "0x2334cDE9613Af3914AD963d873Aa2C10DfdC5171",
-    "total_value": 750000000000000000000,
-    "total_cost": 2975358794803,
-    "transaction_count": 6
+    "from": "0xe625cebBF5bCE175FE4d248097E6eF0fce355104",
+    "total_value": 425000000000000000000,
+    "total_cost": 2665448880619,
+    "transaction_count": 5
   },
   {
     "from": "0x2f6cbb0516dEC34233b571D0538329c788A3478A",
-    "total_value": 150000000000000000000,
-    "total_cost": 2836990138934,
+    "total_value": 75000000000000000000,
+    "total_cost": 2617482843360,
+    "transaction_count": 1
+  },
+  {
+    "from": "0x595237147a5Aab22EF8f0Bf4eAa65e38A606989D",
+    "total_value": 1100000000000000000000,
+    "total_cost": 2560745836896,
+    "transaction_count": 7
+  },
+  {
+    "from": "0xBfFBcAE8B1408D9D7986873f42d38Ca95664cE2c",
+    "total_value": 100000000000000000000,
+    "total_cost": 2262231760241,
     "transaction_count": 2
   },
   {
-    "from": "0xE61C94dA161a86d59286a4B6735633518A942ADA",
-    "total_value": 700000000000000000000,
-    "total_cost": 2828232311880,
+    "from": "0x2f597A84344D27D570Fd6b1eb59232D3f2F91BBD",
+    "total_value": 250000000000000000000,
+    "total_cost": 2192919914985,
+    "transaction_count": 8
+  },
+  {
+    "from": "0xa7B65cA6f3C5c4e1a2c48b54CE31594e56Cbe54F",
+    "total_value": 450000000000000000000,
+    "total_cost": 2163652449351,
     "transaction_count": 4
+  },
+  {
+    "from": "0x6DCB492811EC6057A2d99bAC7BC8433B1e67FCB8",
+    "total_value": 875000000000000000000,
+    "total_cost": 2126822125018,
+    "transaction_count": 5
   },
   {
     "from": "0xACd5ab568B9d11bA31804740e1246657CAf0e394",
-    "total_value": 450000000000000000000,
-    "total_cost": 2819791116868,
+    "total_value": 225000000000000000000,
+    "total_cost": 2126760420468,
+    "transaction_count": 1
+  },
+  {
+    "from": "0x46A509E440D86Bd63ba702a4655322e8E73f6af2",
+    "total_value": 500000000000000000000,
+    "total_cost": 2082734934203,
+    "transaction_count": 11
+  },
+  {
+    "from": "0xE61C94dA161a86d59286a4B6735633518A942ADA",
+    "total_value": 350000000000000000000,
+    "total_cost": 1903817289834,
     "transaction_count": 2
   },
   {
-    "from": "0x892a5aae90c62d4f82B094C6BeddE783d7f6b043",
-    "total_value": 200000000000000000000,
-    "total_cost": 1832351957670,
-    "transaction_count": 4
+    "from": "0xcf9661E02e66ea2213cC55404E9ea69300A3338F",
+    "total_value": 675000000000000000000,
+    "total_cost": 1847506257160,
+    "transaction_count": 5
   },
   {
-    "from": "0x7477dDE0bDcD0287035CBb8eE5DDEFd999603A20",
-    "total_value": 900000000000000000000,
-    "total_cost": 1825793882175,
+    "from": "0xDf331a8E3fCB0BF9f68FE93B2d6bEC8336af296E",
+    "total_value": 300000000000000000000,
+    "total_cost": 1785434843842,
     "transaction_count": 6
   },
   {
-    "from": "0x97BBA5323B6336533b342a4E175B9537B0276076",
-    "total_value": 50000000000000000000,
-    "total_cost": 1670144181525,
+    "from": "0x2334cDE9613Af3914AD963d873Aa2C10DfdC5171",
+    "total_value": 375000000000000000000,
+    "total_cost": 1559010231076,
+    "transaction_count": 3
+  },
+  {
+    "from": "0x892a5aae90c62d4f82B094C6BeddE783d7f6b043",
+    "total_value": 100000000000000000000,
+    "total_cost": 1354639769432,
     "transaction_count": 2
   },
   {
     "from": "0x3a7D19CCaE1ff51B7962Af47Ff776138BC2c1006",
-    "total_value": 50000000000000000000,
-    "total_cost": 1647113980107,
-    "transaction_count": 2
+    "total_value": 25000000000000000000,
+    "total_cost": 1264013131671,
+    "transaction_count": 1
   },
   {
-    "from": "0x130bd46B54E6Af513EdF7274f8cb0A4f5b553da4",
-    "total_value": 250000000000000000000,
-    "total_cost": 877247545638,
-    "transaction_count": 2
+    "from": "0x7477dDE0bDcD0287035CBb8eE5DDEFd999603A20",
+    "total_value": 450000000000000000000,
+    "total_cost": 919203900827,
+    "transaction_count": 3
+  },
+  {
+    "from": "0x97BBA5323B6336533b342a4E175B9537B0276076",
+    "total_value": 25000000000000000000,
+    "total_cost": 837916947445,
+    "transaction_count": 1
   },
   {
     "from": "0xF5968dB74C2Bd4eBF1BBE8661d8e07Ba62f67264",
-    "total_value": 300000000000000000000,
-    "total_cost": 874786592162,
-    "transaction_count": 2
+    "total_value": 150000000000000000000,
+    "total_cost": 453698449840,
+    "transaction_count": 1
+  },
+  {
+    "from": "0x130bd46B54E6Af513EdF7274f8cb0A4f5b553da4",
+    "total_value": 125000000000000000000,
+    "total_cost": 440981549448,
+    "transaction_count": 1
   },
   {
     "from": "0x6785c0a026439B74702b9015C577a657d2da38e7",
-    "total_value": 250000000000000000000,
-    "total_cost": 817418083187,
-    "transaction_count": 2
+    "total_value": 125000000000000000000,
+    "total_cost": 414939876803,
+    "transaction_count": 1
   },
   {
     "from": "0xCcC5d8D55B1b60Ff135B598b9a77B8F0c932EC83",
-    "total_value": 50000000000000000000,
-    "total_cost": 676584528282,
-    "transaction_count": 2
+    "total_value": 25000000000000000000,
+    "total_cost": 340409014092,
+    "transaction_count": 1
   }
 ]

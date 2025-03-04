@@ -1,4 +1,4 @@
-Total Transactions: 5610
+Total Transactions: 5626
 Transaction Costs (sorted from largest to smallest):
 ---------------------------------------------------
 Transaction Hash: 0x83afd0d0ca4e4ced20ff898f42f0cf3d3d4086c27d27f015b7ff4b973bdd0652
@@ -511,6 +511,12 @@ To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
 Value: 1725000000000000000000
 Transaction Cost: 5825984026990
 ---------------------------------------------------
+Transaction Hash: 0x7cb324c9160c0da1d550bd7c5640735f4aef6b3aa32e798d6c02043244454db9
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 275000000000000000000
+Transaction Cost: 5722081581443
+---------------------------------------------------
 Transaction Hash: 0x6a51471dbcafd3134213ed1e02240798f45a1efd091c41250bc47fffe3376b9a
 From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
 To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
@@ -552,6 +558,12 @@ From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
 To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
 Value: 675000000000000000000
 Transaction Cost: 5417663634707
+---------------------------------------------------
+Transaction Hash: 0x2b1707240f3dc1ed294ab8e61b490eb0c52a2dd4fe12598820deb2374587dbc6
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 525000000000000000000
+Transaction Cost: 5405872921769
 ---------------------------------------------------
 Transaction Hash: 0xde45bbb45f9e8d21b50e18d934a8189cc53fa962ad0f7f2bfe24f404a4a8415f
 From: 0x21Dc2AD87D97a99FDaD023Ca72161A9Af5157148
@@ -1356,6 +1368,12 @@ From: 0x2367305c68DD7388E51f9752ac39F63Be984Da92
 To: 0x6f54c27203d66d58d068745c79a07ad5c2578eb0
 Value: 100000000000000000000
 Transaction Cost: 3001921815382
+---------------------------------------------------
+Transaction Hash: 0x12f64cd7c0067854d59dabdc60152102e5f1d2761ac7481fb0132c5a350b32db
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 550000000000000000000
+Transaction Cost: 2995276047100
 ---------------------------------------------------
 Transaction Hash: 0xaa14af0a47758938fe923a973671118d868e8dcbd4f159b1a2e50df9245f7529
 From: 0xd8074D6eEC1C478e8212269812Df08CE85282aFA
@@ -2484,6 +2502,12 @@ From: 0x3254da6AEf2556A74061c30bb4Fe3CBdE7C7209b
 To: 0x3254da6aef2556a74061c30bb4fe3cbde7c7209b
 Value: 125000000000000000000
 Transaction Cost: 2535547913016
+---------------------------------------------------
+Transaction Hash: 0x24e5fbd33ff622accfb1e052da3c196f72e11d488770557d6dd782e80e6f6891
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 300000000000000000000
+Transaction Cost: 2535267973505
 ---------------------------------------------------
 Transaction Hash: 0xa959fd4716c0950a45846acfae2345e2cb3c3bd52a368cd5a4da51cfa57e021e
 From: 0x2367305c68DD7388E51f9752ac39F63Be984Da92
@@ -3756,6 +3780,12 @@ From: 0xF562a266ce20eCcF240e454332Bc67040A8698F8
 To: 0xf562a266ce20eccf240e454332bc67040a8698f8
 Value: 175000000000000000000
 Transaction Cost: 2297123588827
+---------------------------------------------------
+Transaction Hash: 0x12a40113f95d4ea103486c959c36ab500dd2e566f105b5d82b93e59a68627ccb
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 475000000000000000000
+Transaction Cost: 2296428982549
 ---------------------------------------------------
 Transaction Hash: 0x61ef7d4471fe8b1ef1abf6ace8adcab86661d432c6ef0fbb24dc936d45745d1c
 From: 0xF5E0bCe871e8556DA94124d3a001193ffcb38e29
@@ -7938,6 +7968,12 @@ From: 0x2367305c68DD7388E51f9752ac39F63Be984Da92
 To: 0x6f54c27203d66d58d068745c79a07ad5c2578eb0
 Value: 175000000000000000000
 Transaction Cost: 1883734912129
+---------------------------------------------------
+Transaction Hash: 0xd95a5d2b626b32d73a405605185aec6b7fa1771bfdb3f5ba6fda0973c88945ac
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 350000000000000000000
+Transaction Cost: 1881584128286
 ---------------------------------------------------
 Transaction Hash: 0x08fc0ee90cafb15437185a1bc49bed59afcf3840299dbca9d74e8ba99b239083
 From: 0xB132Ba7951FC47fC1E3f2a31d33A3fAaBF43Eb12
@@ -14287,6 +14323,12 @@ To: 0x4b0922ab7785d38c73c79c2bc06021238981cc6f
 Value: 275000000000000000000
 Transaction Cost: 1476971644007
 ---------------------------------------------------
+Transaction Hash: 0x61b16a1a3f2b5bdb749e42df90bdd2a402c2695a0c11f0f49488edcfe5c8d833
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 750000000000000000000
+Transaction Cost: 1476412715793
+---------------------------------------------------
 Transaction Hash: 0x051f17e61e8e6b795a2b7ddc1edb287a9d37853bde0af0c35b4330b63af91ef2
 From: 0xB5621c0638E1795Aa091266af906437a6c85dB45
 To: 0xb5621c0638e1795aa091266af906437a6c85db45
@@ -15024,6 +15066,12 @@ From: 0x45Be76797D891d92BeF54A81E8f002Bb9735eba4
 To: 0x45be76797d891d92bef54a81e8f002bb9735eba4
 Value: 150000000000000000000
 Transaction Cost: 1449447944331
+---------------------------------------------------
+Transaction Hash: 0xe1490fd9f12688c79bd40212d4519c5005f8e2992a6c09c484cbceffa62164a9
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 450000000000000000000
+Transaction Cost: 1449441845912
 ---------------------------------------------------
 Transaction Hash: 0x116ca4b2256fa473e5fa593040c8ad07de3a662dffaee915bf576fc03d417d47
 From: 0x4B0922ab7785d38c73c79c2Bc06021238981Cc6f
@@ -16818,6 +16866,12 @@ From: 0x7d99A49b70F405D0d7eA361e582D79272a095Bb8
 To: 0x7d99a49b70f405d0d7ea361e582d79272a095bb8
 Value: 125000000000000000000
 Transaction Cost: 1355197789780
+---------------------------------------------------
+Transaction Hash: 0x041bec4d0dcdf8db37c33e12f7c7113b149ed1f86b32e169493af2b518ecd5cc
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 400000000000000000000
+Transaction Cost: 1354652555182
 ---------------------------------------------------
 Transaction Hash: 0x3f07bbda6c044e7fda021229ffb88a3b831001fa04b5e15d4f4a817eeb9ee803
 From: 0xAA97bACE829E465Fd85D44C170f5b751B5500778
@@ -19027,6 +19081,12 @@ To: 0xead8251ec15ec8ff623c0af31431aa2c1c9d1fbb
 Value: 100000000000000000000
 Transaction Cost: 1215811450415
 ---------------------------------------------------
+Transaction Hash: 0xb775fdbb1b75abdd643b96835d489caee4b6b47935e6d8ca0f18d84eb01a2123
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 425000000000000000000
+Transaction Cost: 1214797777012
+---------------------------------------------------
 Transaction Hash: 0x49cad40b0e2b75e62f319b23400a9a1fe1aaf9507e5e577db92dc901c046aa5d
 From: 0x0DFbAA8B39562f8d2f70737cBBb268B2C4A7Eeb9
 To: 0x0dfbaa8b39562f8d2f70737cbbb268b2c4a7eeb9
@@ -20437,6 +20497,12 @@ To: 0x6f54c27203d66d58d068745c79a07ad5c2578eb0
 Value: 125000000000000000000
 Transaction Cost: 1091144128294
 ---------------------------------------------------
+Transaction Hash: 0xcada2a9fb5a915a8ac1123326e48d6ce256145de3f8c7232cf71db4fe0eb9482
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 400000000000000000000
+Transaction Cost: 1090167304862
+---------------------------------------------------
 Transaction Hash: 0xebc9f8b6bb09b6528ec5e18309ae12bf876b49d2b2b30c105f2ea2174986f7c7
 From: 0xd8074D6eEC1C478e8212269812Df08CE85282aFA
 To: 0xd8074d6eec1c478e8212269812df08ce85282afa
@@ -20682,6 +20748,12 @@ From: 0x7F6632E2F6F69Eb251990049270D786FFECf9b02
 To: 0x7f6632e2f6f69eb251990049270d786ffecf9b02
 Value: 150000000000000000000
 Transaction Cost: 1054585957359
+---------------------------------------------------
+Transaction Hash: 0xfe397f344a6b20ae0631adc17ed33db1ea31f80952fac65c9fa1da4996e581a8
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 475000000000000000000
+Transaction Cost: 1054528983144
 ---------------------------------------------------
 Transaction Hash: 0x20b9c3461fad65393ffe51c2ba61cbd80575dc9d98db5485057eec25bbf62e85
 From: 0x3254da6AEf2556A74061c30bb4Fe3CBdE7C7209b
@@ -21313,6 +21385,12 @@ To: 0x8468ee72372815d18d6ef7c2488053a80df5ca2b
 Value: 150000000000000000000
 Transaction Cost: 987596197614
 ---------------------------------------------------
+Transaction Hash: 0xb0e51e84eaf96d7761f595b1b235940aa4956d49cc2e4bff952df67799dff310
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 275000000000000000000
+Transaction Cost: 987361869885
+---------------------------------------------------
 Transaction Hash: 0xee5e5dd5b31fb30f0e4d3eb28c0726b91924a1178886af888edc0ca306027d2a
 From: 0xcdfFe8bd80239e3C8B12b04eDE010df3EE0E2a9a
 To: 0xcdffe8bd80239e3c8b12b04ede010df3ee0e2a9a
@@ -21366,6 +21444,12 @@ From: 0xc1BF11c3A52E596B66298CD61D751821f42B49af
 To: 0xc1bf11c3a52e596b66298cd61d751821f42b49af
 Value: 125000000000000000000
 Transaction Cost: 980487790665
+---------------------------------------------------
+Transaction Hash: 0xc71b8a34a21d21f786ba24d43d8badd26ffbac8b1e3e10a3408d365d40c3b13a
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 375000000000000000000
+Transaction Cost: 980387832371
 ---------------------------------------------------
 Transaction Hash: 0x4682936c63f40d9a321641bc3b29ed9e733f9462128ed1584fdab0cc4351ab77
 From: 0x7E6b7AdEC63Cdf620404728095c1f5c88C17f082
@@ -21438,6 +21522,12 @@ From: 0xAA97bACE829E465Fd85D44C170f5b751B5500778
 To: 0xb1a4ca55412aa088e1d60aa6e89914047aee45ee
 Value: 125000000000000000000
 Transaction Cost: 972607290863
+---------------------------------------------------
+Transaction Hash: 0xe0aa7c8e373ec7c213e4c83e6d2fec8f5a1e44abddc8912d6fad5fe86eb5fd16
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 350000000000000000000
+Transaction Cost: 971999121369
 ---------------------------------------------------
 Transaction Hash: 0x2179397091bf439bebb036d5033d8bb9c5d87aed576a2f0c763557744736ca34
 From: 0xbd4Ae0dc3c0FA45e0119d3C108acDe1DaD5E7825
@@ -22332,6 +22422,12 @@ From: 0xBc02a81444BeB454765a6F5060819FcB0DEA343C
 To: 0xbc02a81444beb454765a6f5060819fcb0dea343c
 Value: 25000000000000000000
 Transaction Cost: 900131947678
+---------------------------------------------------
+Transaction Hash: 0x983eda5b3943cb0f5bac40c3916bd3b951d66cb29527a3b75a8923fae179efd4
+From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
+To: 0x98181a5f3b91117426331b54e2a47e8fa74f56b0
+Value: 275000000000000000000
+Transaction Cost: 899965463978
 ---------------------------------------------------
 Transaction Hash: 0xf8813cba0dca9095ed10a979ceaa126326103a1e5d17db71abc8d7adddf6118d
 From: 0x98181A5f3B91117426331B54E2a47e8FA74F56B0
@@ -33663,7 +33759,7 @@ Transaction Cost: 117015601717
 ---------------------------------------------------
 
 
-Total Cost: 8670202073163313
-Number of Transactions: 5610
+Total Cost: 8702518300267473
+Number of Transactions: 5626
 From block : 25990909
-to block : 27127943
+to block : 27166484
